@@ -88,7 +88,6 @@ The *Elect_Viz* project is a comprehensive example of how **data visualization a
 - Boomika B
 - Dishant Gangwar
 
-Infosys Springboard Virtual Internship 6.0 Team  
 Year: 2025
 
 ---
